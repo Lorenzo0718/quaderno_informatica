@@ -14,10 +14,10 @@ public class Coda_Poste {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Istanzio l'oggetto "Input" che appartiene alla classe di tipo Scanner
+        //Istanzio l'oggetto "Input" di tipo Scanner
         Scanner Input = new Scanner(System.in);
     
-        //Dichiaro e inizializzo l'attributo "dimensioni" che è di tipo intero  
+        //Dichiaro e inizializzo l'attributo "dimensioni" di tipo intero  
         int dimensioni = 8;
         
         //Dichiaro l'array "coda" di tipo String che ha come dimensione il valore dell'attributo "dimensioni"
