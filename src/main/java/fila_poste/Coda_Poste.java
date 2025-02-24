@@ -18,7 +18,7 @@ public class Coda_Poste {
         Scanner Input = new Scanner(System.in);
     
         //Dichiaro e inizializzo l'attributo "dimensioni" di tipo intero  
-        int dimensioni = 8;
+        int dimensioni = 2;
         
         //Dichiaro l'array "coda" di tipo String che ha come dimensione il valore dell'attributo "dimensioni"
         String[] coda = new String[dimensioni];
